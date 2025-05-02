@@ -18,8 +18,17 @@ public class Demo {
 	{
 		System.out.println("This is m3 method..");
 	}
+
 	public void m5() {
 		System.out.println("changes done");
+	}
+	public void m4()
+	{
+		System.out.println("This is m4 method..");
+	}
+	public void m6()
+	{
+		System.out.println("m6 method");
 	}
 
 
