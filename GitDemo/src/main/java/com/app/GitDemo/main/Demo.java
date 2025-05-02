@@ -22,6 +22,10 @@ public class Demo {
 	{
 		System.out.println("This is m4 method..");
 	}
+	public void m6()
+	{
+		System.out.println("m6 method");
+	}
 
 
 }
