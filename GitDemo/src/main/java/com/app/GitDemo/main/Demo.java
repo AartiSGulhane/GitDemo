@@ -30,6 +30,9 @@ public class Demo {
 	{
 		System.out.println("m6 method");
 	}
+	public void m8() {
+		System.out.println("Hello from local repository..");
+	}
 
 
 }
