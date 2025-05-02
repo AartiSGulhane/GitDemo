@@ -30,6 +30,10 @@ public class Demo {
 	{
 		System.out.println("m6 method");
 	}
+	public void m7()
+	{
+		System.out.println("hello from remote repository");
+	}
 
 
 }
